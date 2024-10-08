@@ -1,0 +1,5 @@
+[32mINFO    [0m <module>:conftest.py:47 Starting test:test_closeApp
+[32mINFO    [0m Device:adb_class.py:157 App 'com.android.settings' has been closed.
+[32mINFO    [0m Device:adb_class.py:161 App 'com.android.settings' data has been cleared.
+[32mINFO    [0m <module>:conftest.py:51 Test completed:test_closeApp
+[32mINFO    [0m <module>:conftest.py:38 Appium server Stopped

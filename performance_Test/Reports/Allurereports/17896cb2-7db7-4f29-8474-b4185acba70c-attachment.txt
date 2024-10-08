@@ -1,0 +1,8 @@
+[32mINFO    [0m <module>:conftest.py:47 Starting test:test_preConditions
+[32mINFO    [0m ClassElements:base_class.py:77 Clicked Element with Locator-type: id and with Locator-Value: com.android.settings:id/search_src_text
+[32mINFO    [0m ClassElements:base_class.py:118 Element with Locator-type: id and Locator-Value: com.android.settings:id/search_src_text is displayed
+[32mINFO    [0m ClassElements:base_class.py:103 sent text on Element with Locator-type :id and with Locator-Value :com.android.settings:id/search_src_text and text is:Display & brightness
+[32mINFO    [0m ClassElements:base_class.py:118 Element with Locator-type: text and Locator-Value: Display & brightness is displayed
+[32mINFO    [0m ClassElements:base_class.py:77 Clicked Element with Locator-type: text and with Locator-Value: Display & brightness
+[32mINFO    [0m ClassElements:base_class.py:118 Element with Locator-type: text and Locator-Value: Display & brightness is displayed
+[32mINFO    [0m <module>:conftest.py:51 Test completed:test_preConditions

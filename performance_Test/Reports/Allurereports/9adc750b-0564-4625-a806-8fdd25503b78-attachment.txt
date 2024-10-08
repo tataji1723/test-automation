@@ -1,0 +1,6 @@
+[32mINFO    [0m <module>:conftest.py:13 ................Checking Android device is connection to PC..........
+[32mINFO    [0m Device:adb_class.py:11 Checking Android Device Information
+[32mINFO    [0m Device:adb_class.py:15 Test Device information:
+List of devices attached
+d7d5dcbc	device
+[32mINFO    [0m Device:adb_class.py:22 checking device serial-id

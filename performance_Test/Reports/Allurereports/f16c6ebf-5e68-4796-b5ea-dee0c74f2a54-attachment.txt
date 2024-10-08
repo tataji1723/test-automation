@@ -1,0 +1,3 @@
+[32mINFO    [0m <module>:conftest.py:47 Starting test:test_AutoBrightnessStatus
+[1m[31mERROR   [0m ClassElements:base_class.py:208 Switch info not found with Locator-type: id and with Locator Value: android:id/switch_widget | Exception: 'NoneType' object has no attribute 'find_element'
+[32mINFO    [0m <module>:conftest.py:51 Test completed:test_AutoBrightnessStatus

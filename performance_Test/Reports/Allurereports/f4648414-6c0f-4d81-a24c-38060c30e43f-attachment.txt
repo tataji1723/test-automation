@@ -1,0 +1,16 @@
+[32mINFO    [0m <module>:conftest.py:47 Starting test:test_AutoRotateStatus
+[32mINFO    [0m ClassElements:base_class.py:210 Attempting to find element with scrolling.
+[31m[1mERROR   [0m ClassElements:base_class.py:62 Exception is: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\O0001950\.appium\node_modules\appium-uiautomator2-driver\node_modules\appium-android-driver\lib\commands\find.ts:86:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (C:\Users\O0001950\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:60:12)
+    at AndroidUiautomator2Driver.findElement (C:\Users\O0001950\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:75:12)
+[32mINFO    [0m ClassElements:base_class.py:224 Element with xpath '//android.widget.TextView[@resource-id="android:id/title" and @text="Auto-rotate"]' not found. Scrolling up...
+[32mINFO    [0m ClassElements:base_class.py:55 Element Found with Locator type :xpathand with Locator Value ://android.widget.TextView[@resource-id="android:id/title" and @text="Auto-rotate"]
+[32mINFO    [0m ClassElements:base_class.py:220 Element with xpath '//android.widget.TextView[@resource-id="android:id/title" and @text="Auto-rotate"]' found!
+[32mINFO    [0m ClassElements:base_class.py:147 Successfully saved screenshot at path: ../Screenshots/Auto_Rotate_Status_071024_141054.png
+[32mINFO    [0m ClassElements:base_class.py:184 Switch info found with Locator-type: id and with Locator Value: android:id/switch_widget | Switch Status: Off
+[32mINFO    [0m ClassElements:base_class.py:147 Successfully saved screenshot at path: ../Screenshots/AutoRotate_status_latest_071024_141054.png
+[32mINFO    [0m <module>:conftest.py:51 Test completed:test_AutoRotateStatus

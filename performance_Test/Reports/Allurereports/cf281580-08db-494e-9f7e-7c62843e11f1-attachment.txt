@@ -1,0 +1,21 @@
+[32mINFO    [0m <module>:conftest.py:13 ................Checking Android device is connection to PC..........
+[32mINFO    [0m Device:adb_class.py:11 Checking Android Device Information
+[32mINFO    [0m Device:adb_class.py:15 Test Device information:
+
+[32mINFO    [0m Device:adb_class.py:22 checking device serial-id
+[32mINFO    [0m Device:adb_class.py:31 Device serial-id:d7d5dcbc
+[32mINFO    [0m Device:adb_class.py:94 checking device Android Version
+[32mINFO    [0m Device:adb_class.py:98 Android Version :14
+
+[32mINFO    [0m Device:adb_class.py:108 checking device Name
+[32mINFO    [0m Device:adb_class.py:112 Device Name :CPH2505
+
+[32mINFO    [0m Device:adb_class.py:67 checking device Screen Status
+[32mINFO    [0m Device:adb_class.py:44 Device screen is ON and UnLocked
+[32mINFO    [0m <module>:conftest.py:23 Trying to Connect Appium server
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:870 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000020948708230>, 'Connection to 127.0.0.1 timed out. (connect timeout=1.0)')': /status
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:870 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000020948708AA0>, 'Connection to 127.0.0.1 timed out. (connect timeout=1.0)')': /status
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:870 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000020948709A90>, 'Connection to 127.0.0.1 timed out. (connect timeout=1.0)')': /status
+[32mINFO    [0m Driver:driver_class.py:28 Successfully connected to Appium server.
+[32mINFO    [0m <module>:conftest.py:47 Starting test:test_clearRecentApps
+[32mINFO    [0m <module>:conftest.py:51 Test completed:test_clearRecentApps

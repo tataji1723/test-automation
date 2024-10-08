@@ -1,0 +1,3 @@
+[32mINFO    [0m <module>:conftest.py:47 Starting test:test_preConditions
+[31m[1mERROR   [0m ClassElements:base_class.py:106 Unable to click on Element with Locator-type: id and with Locator-Value: com.android.settings:id/search_src_text
+[32mINFO    [0m <module>:conftest.py:51 Test completed:test_preConditions

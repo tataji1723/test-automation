@@ -1,0 +1,5 @@
+[32mINFO    [0m <module>:conftest.py:47 Starting test:test_launchAPK
+[32mINFO    [0m Device:adb_class.py:129 Launch command output: Starting: Intent { cmp=com.android.settings/.Settings }
+
+[32mINFO    [0m Device:adb_class.py:138 App 'com.android.settings' is running.
+[32mINFO    [0m <module>:conftest.py:51 Test completed:test_launchAPK

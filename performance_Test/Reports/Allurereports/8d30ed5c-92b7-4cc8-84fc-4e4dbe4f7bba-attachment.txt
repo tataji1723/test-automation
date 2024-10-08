@@ -1,0 +1,7 @@
+[32mINFO    [0m <module>:conftest.py:47 Starting test:test_AutoRotateStatus
+[32mINFO    [0m ClassElements:base_class.py:227 Attempting to find element with scrolling.
+[31m[1mERROR   [0m ClassElements:base_class.py:79 Exception is: 'NoneType' object has no attribute 'find_element'
+[32mINFO    [0m ClassElements:base_class.py:247 First attempt failed, skipping exception logging.
+[31m[1mERROR   [0m ClassElements:base_class.py:79 Exception is: 'NoneType' object has no attribute 'find_element'
+[31m[1mERROR   [0m ClassElements:base_class.py:250 An error occurred while trying to find the element with Locator-type: xpath and Locator-Value: //android.widget.TextView[@resource-id="android:id/title" and @text="Auto-rotate"]. Error: 'NoneType' object has no attribute 'get_screenshot_as_png'
+[32mINFO    [0m <module>:conftest.py:51 Test completed:test_AutoRotateStatus

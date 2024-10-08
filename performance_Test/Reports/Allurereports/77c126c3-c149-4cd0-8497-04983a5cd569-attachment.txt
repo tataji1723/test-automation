@@ -1,0 +1,4 @@
+[32mINFO    [0m <module>:conftest.py:47 Starting test:test_AutoBrightnessStatus
+[32mINFO    [0m ClassElements:base_class.py:184 Switch info found with Locator-type: id and with Locator Value: android:id/switch_widget | Switch Status: Off
+[32mINFO    [0m ClassElements:base_class.py:147 Successfully saved screenshot at path: ../Screenshots/Auto_brightness_latest_071024_141009.png
+[32mINFO    [0m <module>:conftest.py:51 Test completed:test_AutoBrightnessStatus
